@@ -1,0 +1,15 @@
+.menu-section {
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21.86px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.menu-btn {
+  width: 117px;
+  height: 44px;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: #0c172c;
+}
